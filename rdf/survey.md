@@ -67,20 +67,18 @@ sharing Architecture
  * disk
  * nothing
 
+
 |name|T|I|Q|S|J|C|D|F|D|Q|S|A|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|3store|vertical|?|SPARQL|string_id|RDBMS_based|?|RDB|TBox|none|none|none|?|
-|4store|vertical|?|SPARQL|string_id|||||||||
-||||||||||||||
-||||||||||||||
-||||||||||||||
-||||||||||||||
-||||||||||||||
-
-
-
-
-
-
+|3store|v||S|U|R||R|T|n|n|n||
+|4store|v||S|U|o||R||h|p||n|
+|Virtuoso|v|G|S|Ulo|R||R|TA|n|n|n||
+|RDF-3X|v|6|S|Ul|o||R||n|n|n||
+|Hexastore|v|6|o|Ul||n|||n|n|n||
+|Apache Jena|p||S|Ulo|R|r|R||n|n|n||
+|SW-store|h|||Uo|c|m|c||n|n|n||
+|BitMat|v|m|S|Ul|p||c||||p||
+|AllegroGraph|||S||||c||h|p||m|
+|Haddop/HBase|h||||||c|||p||m|
 
 
