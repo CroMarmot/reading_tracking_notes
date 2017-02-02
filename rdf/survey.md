@@ -80,5 +80,5 @@ sharing Architecture
 |BitMat|v|m|S|Ul|p||c||||p||
 |AllegroGraph|||S||||c||h|p||m|
 |Haddop/HBase|h||||||c|||p||m|
-
+|wukong|v|???|S|Ul|c+?|?|R?|?|dh?|p|p|m|
 
