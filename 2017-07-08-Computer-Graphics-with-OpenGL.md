@@ -23,7 +23,7 @@ opengl自己的全以gl开头
 
 四边形 `GL_QUAD/GL_QUAD_STRIP`
 
-顶点数组 GLint points [NUM][3] ={{0,0,0},{0,1,0}...}
+顶点数组 GLint points [NUM][3] ={ {0,0,0},{0,1,0}...}
 
 glBitmap 位图函数
 
